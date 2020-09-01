@@ -16,19 +16,23 @@ Running the code:
 * Successful execution of the code will result in an Output directory and tif and bmp files for each shapefile in the input folder
 
 The final folder structure will look similar to the following:<br>
-Labeled/<br>
----- README.md<br>
----- image_labeler_data_download.ipynb<br>
----- downloaded_layer/<br>
--------- {phenomena}_{date}_{user}_{id}/<br>
------------- {phenomena}_{date}_{user}_{id}.geojson <br>
--------- {phenomena}_{date}_{user}_{id_1}/<br>
------------- {phenomena}_{date}_{user}_{id_1}.geojson <br>
--------- {phenomena}_{date}_{user}_{id_2}/<br>
------------- {phenomena}_{date}_{user}_{id_2}.geojson<br>
----- Output/<br>
---------{ phenomena}_{datetime}_{bounding_box}.tif<br>
---------{ phenomena}_{datetime}_{bounding_box}.bmp<br>
+image_labeler_shapefile_downloader/<br>
+--- README.md<br>
+--- image_labeler_data_download.ipynb<br>
+--- downloaded_layer/<br>
+------ {phenomena}_{date}_{user}_{id}/<br>
+---------- {phenomena}_{date}_{user}_{id}.shp<br>
+---------- {phenomena}_{date}_{user}_{id}.dbf<br>
+---------- {phenomena}_{date}_{user}_{id}.prj<br>
+---------- {phenomena}_{date}_{user}_{id}.shx<br>
+------ {phenomena}_{date}_{user}_{id_1}/<br>
+---------- {phenomena}_{date}_{user}_{id_1}.shp  <br>
+---------- {phenomena}_{date}_{user}_{id_1}.dbf  <br>
+---------- {phenomena}_{date}_{user}_{id_1}.prj<br>
+---------- {phenomena}_{date}_{user}_{id_1}.shx<br>
+--- Output/<br>
+------ {phenomena}_{datetime}_{bounding_box}.tif<br>
+------ {phenomena}_{datetime}_{bounding_box}.bmp<br>
 
 
 ## Detection Model Readme
