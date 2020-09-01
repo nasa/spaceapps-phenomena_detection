@@ -7,7 +7,6 @@ Requirements:
 * Data from the [ImageLabeler](https://labeler.nasa-impact.net/earth-science-events/list)
 * Select any existing phenomena or a new phenomena (ask admins to create one for you)
     * While drawing bounding boxes, if Aqua and TrueColor are not used, make sure to change the URL by using the image_url function
-* Change the download type of the first entry to geojson from shapefiles
 * Click on download all, extract the zip to a place that contains the script as well
 
 Running the code:
