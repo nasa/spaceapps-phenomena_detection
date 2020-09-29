@@ -4,13 +4,13 @@ This document provides example phenomena which have labeled datasets. You may ch
 ## Transverse Cirrus Bands (TCB) 
 
 TCBs are bands of clouds oriented perpendicular to the atmospheric flow in which they are embedded. TCBs are often an indicator of strong turbulence and often associated with severe weather such as hurricanes and thunderstorms or atmospheric jets.
-* Image Labeler Transverse Cirrus Bands Data: s3://impact-datashare/transverse_bands/
+* Transverse Cirrus Bands Data: s3://impact-datashare/transverse_bands/
 
 
 ## Cloud Streets
 
 Cloud streets are extended lines of cumulus clouds oriented parallel to the atmospheric flow. Cloud streets are known to be significant to the vertical transport of heat, moisture, air pollutants, and momentum within the atmosphere. 
-* Image Labeler Cloud Streets Data: s3://impact-datashare/cloudstreet
+* Cloud Streets Data: s3://impact-datashare/cloudstreet
 
 
 ## High Latitude Dust
