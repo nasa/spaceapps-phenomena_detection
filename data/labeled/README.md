@@ -26,7 +26,11 @@ Smoke is the mixture of gas and particulates in the atmosphere resulting from th
 
 ## Air Quality Data
 
-Monitoring surface air quality helps ensure the protection of human health and property. However, surface air quality data is sparsely monitored. To help fill in these gaps, inferences are derived from other sources including remote sensing. The CSV formatted data and labels are provided below. It contains the following fields which have been described.
+Monitoring surface air quality helps ensure the protection of human health and property. However, surface air quality data is sparsely monitored. To help fill in these gaps, inferences are derived from other sources including remote sensing. 
+
+* Air Quality Data: s3://impact-datashare/pm2.5-labeled
+
+The CSV formatted data and labels are provided below. It contains the following fields which have been described.
 
 1. station_id: Unique identifier of the PM 2.5 monitors stationed across US
 2. stime: Time and date of sample recorded
@@ -37,7 +41,6 @@ Monitoring surface air quality helps ensure the protection of human health and p
 7. TMP: Temperature recorded from HRRR
 8. goes_measurement: AOD reading from GOES R
 
-* Air Quality Data: s3://impact-datashare/pm2.5-labeled
 
 # How to download data from aws s3 buckets
 
