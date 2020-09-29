@@ -6,4 +6,4 @@ Selected pre-labeled data is available in the [labeled folder](data/labeled/), o
 
 The [examples](examples/) folder contains example scripts for machine learning, as well as downloading satellite imagery.<br>
 
-Best of luck with the challenge! If you need clarification on challenge details please see contact information in the [resources](resources/) folder.
+Best of luck with the challenge! If you need clarification on challenge details please see contact information in the [contacts](contacts/) folder.
