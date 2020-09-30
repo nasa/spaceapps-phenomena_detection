@@ -13,7 +13,7 @@ Please contact the following sponsors for additional information or assistance w
 
 **Kumar Ramasubramanian**
 * Machine Learning, Computer Science
-* rocketchat: 
+* rocketchat: mr0051
 
 **Ankur Shah**
 * Atmosphere and Earth Science, Machine Learning 
