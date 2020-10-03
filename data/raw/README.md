@@ -42,6 +42,7 @@ The Image Labeler is an interactive application created by the development team 
 
 [Image Labeler Tool](https://labeler.nasa-impact.net)
 [Image Labeler Documentation](https://nasa-impact.github.io/image_labeler_docs/html/index.html#)
+[Request an Account](https://forms.gle/gXd7SS5tW6h3GNzv6)
 
 ## Image Labeler's Data
 
