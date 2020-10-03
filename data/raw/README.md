@@ -40,9 +40,9 @@ These files are stored in compressed NETCDF formats and can be accessed through 
 
 The Image Labeler is an interactive application created by the development team at NASA IMPACT designed to help users generate tagged images for machine learning. Images can be uploaded directly, or users can extract images from an interactive satellite map. Labeled images can also be downloaded for training your detection model.
 
-[Image Labeler Tool](https://labeler.nasa-impact.net)
-[Image Labeler Documentation](https://nasa-impact.github.io/image_labeler_docs/html/index.html#)
-[Request an Account](https://forms.gle/gXd7SS5tW6h3GNzv6)
+* [Image Labeler Tool](https://labeler.nasa-impact.net)
+* [Image Labeler Documentation](https://nasa-impact.github.io/image_labeler_docs/html/index.html#)
+* [Request an Account](https://forms.gle/gXd7SS5tW6h3GNzv6)
 
 ## Image Labeler's Data
 
